@@ -1,0 +1,3 @@
+limits-svc:
+  minimum: 20
+  maximum: 99999
